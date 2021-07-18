@@ -13,7 +13,7 @@ My hats: Here are some of my hats feel free to download them
  
  <img src="https://media.discordapp.net/attachments/815728560454893589/865790285479936030/com.AnotherAxiom.GorillaTag-20210717-123646.jpg?width=603&height=603" height="200"/> Download <a href="https://github.com/Xemply/GorillaOn/releases/download/1.00/Cursed.Gorilla.On.hat">Here<a/>
  
-  <img src="https://media.discordapp.net/attachments/815728560454893589/866120936814280723/216868992_196824189050054_2903405837293574207_n.jpg" height="200"/> Download <a href="https://github.com/Xemply/GorillaOn/releases/download/1.00/Cursed.Gorilla.On.hat">Here<a/>
+  <img src="https://media.discordapp.net/attachments/815728560454893589/866120936814280723/216868992_196824189050054_2903405837293574207_n.jpg" height="200"/> Download <a href="https://github.com/Xemply/GorillaOn/releases/download/1.20/Lava.Gorilla.On.hat">Here<a/>
  
  <img src="https://media.discordapp.net/attachments/815728560454893589/865434483218186290/com.AnotherAxiom.GorillaTag-20210716-131203.jpg?width=603&height=603" height="200"/>
  
