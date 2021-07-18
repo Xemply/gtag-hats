@@ -15,4 +15,4 @@ My hats: Here are some of my hats feel free to download them
  
 
 
-<h1>Thank you! if you need any help im MonkeXemply#0001!</h1>
+<h1>Thank you! if you need any help im MonkeXemply#0001 on discord!</h1>
