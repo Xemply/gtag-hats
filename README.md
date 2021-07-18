@@ -1,7 +1,5 @@
 ## Welcome to My website! feel free to look around and download any hat you like!
 
-### Downloads
-
 
 <h2>My hats: Here are some of my hats feel free to download them</h2>
 
