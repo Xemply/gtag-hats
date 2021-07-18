@@ -1,4 +1,4 @@
-## Welcome to were you can acsess all of my cosmetics
+## Welcome to My website! feel free to look around and download any hat you like!
 
 ### Downloads
 
